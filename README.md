@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Shailendra900
-- 👀 I’m interested in ...Front End Development
+- Front-end intern at National Infoematics Center Korba.
+- MCA From Pt. Ravishankar Shukla University Raipur-   
+- 👀My passion ... as a Front-End Developer
 - 🌱 currently im learning ...new language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...shailkumarverma2017@gmail.com

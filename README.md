@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shailendra900
+- 👋 Hi, I’m Shailendra Verma
 - 💻 Front-end intern at National Infoematics Center Korba. feb 2024 - july 2024
 - 📚 MCA From Pt. Ravishankar Shukla University Raipur- Sep 2022 – Aug 2024  
 - 👀My passion ... as a Front-End Developer

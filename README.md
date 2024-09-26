@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shailendra900
-- Front-end intern at National Infoematics Center Korba. feb 2024 - july 2024
-- MCA From Pt. Ravishankar Shukla University Raipur- Sep 2022 – Aug 2024  
+- 💻 Front-end intern at National Infoematics Center Korba. feb 2024 - july 2024
+- 📚 MCA From Pt. Ravishankar Shukla University Raipur- Sep 2022 – Aug 2024  
 - 👀My passion ... as a Front-End Developer
-- 🌱 currently im learning ...new language
+- 🌱 currently im learning ...new languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...shailkumarverma2017@gmail.com
 
